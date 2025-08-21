@@ -1,5 +1,5 @@
-![ Alt text](logmrgr003.gif) / ! [](logmrgr003.gif)
-logmrgr
+![logmrgr](logmrgr003.gif) / ! [](logmrgr003.gif)
+</br>logmrgr
 </br>Приложение для объединения лог-файлов по времени событий в них.
 </br>Суперлог.
 
