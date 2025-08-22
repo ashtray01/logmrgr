@@ -1,4 +1,4 @@
-![logmrgr](logmrgr003.gif)
+![logmrgr](logmrgr010.gif)
 </br>logmrgr
 </br>Приложение для объединения лог-файлов по времени событий в них.
 </br>Суперлог.
