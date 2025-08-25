@@ -13,4 +13,4 @@
 
 ## Баги
 О всех багах и предложениях пишите сюда:
-[logmrgr ssues](https://github.com/ashtray01/logmrgr/issues)
+[logmrgr issues](https://github.com/ashtray01/logmrgr/issues)
