@@ -1,4 +1,4 @@
-</br>logmrgr
+</br>`logmrgr`
 </br>Приложение для объединения лог-файлов по времени событий в них.
 
 ![logmrgr](Screenshot_6.png)
