@@ -1,3 +1,5 @@
+[logmrgr028.4.zip](https://github.com/ashtray01/logmrgr/releases/download/028.4/logmrgr028.4.zip)
+
 </br>`logmrgr`
 </br>Приложение для объединения лог-файлов по времени событий в них.
 
