@@ -1,4 +1,4 @@
-[Презентация logmrgr031.5.pptx](https://github.com/ashtray01/logmrgr/blob/main/logmrgr031.5.pptx)<br>
+[Презентация](https://github.com/ashtray01/logmrgr/blob/main/logmrgr031.5.pptx)<br>
 [Релиз logmrgr031.5.zip](https://github.com/ashtray01/logmrgr/releases/download/031.5/logmrgr031.5.zip)
 
 </br>`logmrgr`
