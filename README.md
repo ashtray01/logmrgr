@@ -1,6 +1,6 @@
 [Презентация](https://github.com/ashtray01/logmrgr/blob/main/logmrgr031.5.pptx)<br>
 ![logmrgr](logmrgr031.5_presentation.gif)
-[Скачать logmrgr031.6 win64](https://github.com/ashtray01/logmrgr/releases/download/031.6/logmrgr031.6.zip)
+[Скачать logmrgr031.7 win64](https://github.com/ashtray01/logmrgr/releases/download/031.7/logmrgr031.7.zip)
 
 </br>`logmrgr`
 </br>Приложение для объединения лог-файлов по времени событий в них.
