@@ -1,3 +1,5 @@
+try rust edition https://github.com/ashtray01/logmrgr/releases/tag/060
+
 [Презентация](https://github.com/ashtray01/logmrgr/blob/main/logmrgr031.5.pptx)<br>
 ![logmrgr](logmrgr031.5_presentation.gif)
 [Скачать logmrgr031.10 win64](https://github.com/ashtray01/logmrgr/releases/download/031.8/logmrgr031.10.zip)
